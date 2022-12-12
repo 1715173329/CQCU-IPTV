@@ -45,14 +45,16 @@ http://immortalwrt.lan:4022/udp/225.0.4.53:7980
 http://immortalwrt.lan:4022/udp/225.0.4.50:7980
 #EXTINF:-1 ,IPTV8+ SD
 http://immortalwrt.lan:4022/udp/225.0.4.54:7980
+#EXTINF:-1 ,IPTV导视
+http://immortalwrt.lan:4022/udp/225.0.4.178:7980
 #EXTINF:-1 ,IPTV相声小品 SD
 http://immortalwrt.lan:4022/udp/225.0.4.56:7980
 #EXTINF:-1 ,IPTV野外 SD
 http://immortalwrt.lan:4022/udp/225.0.4.57:7980
-#EXTINF:-1 ,爱上4K SD
+#EXTINF:-1 ,爱上4K HEVC
 http://immortalwrt.lan:4022/udp/225.0.4.226:7980
-#EXTINF:-1 ,安徽卫视 SD
-http://immortalwrt.lan:4022/udp/225.0.4.16:7980
+#EXTINF:-1 ,安徽卫视
+http://immortalwrt.lan:4022/udp/225.0.4.133:7980
 #EXTINF:-1 ,北京卡酷少儿 SD
 http://immortalwrt.lan:4022/udp/225.0.4.45:7980
 #EXTINF:-1 ,北京卫视
@@ -79,12 +81,14 @@ http://immortalwrt.lan:4022/udp/225.0.4.194:7980
 http://immortalwrt.lan:4022/udp/225.0.4.189:7980
 #EXTINF:-1 ,重庆新闻
 http://immortalwrt.lan:4022/udp/225.0.4.188:7980
+#EXTINF:-1 ,重庆移动
+http://immortalwrt.lan:4022/udp/225.0.4.215:7980
 #EXTINF:-1 ,重庆影视
 http://immortalwrt.lan:4022/udp/225.0.4.192:7980
 #EXTINF:-1 ,东方卫视
 http://immortalwrt.lan:4022/udp/225.0.4.80:7980
-#EXTINF:-1 ,东南卫视 SD
-http://immortalwrt.lan:4022/udp/225.0.4.31:7980
+#EXTINF:-1 ,东南卫视
+http://immortalwrt.lan:4022/udp/225.0.4.200:7980
 #EXTINF:-1 ,甘肃卫视 SD
 http://immortalwrt.lan:4022/udp/225.0.4.44:7980
 #EXTINF:-1 ,广东嘉佳卡通 SD
@@ -97,8 +101,6 @@ http://immortalwrt.lan:4022/udp/225.0.4.34:7980
 http://immortalwrt.lan:4022/udp/225.0.4.175:7980
 #EXTINF:-1 ,海南卫视 SD
 http://immortalwrt.lan:4022/udp/225.0.4.40:7980
-#EXTINF:-1 ,谍战剧场 SD
-http://immortalwrt.lan:4022/udp/225.0.4.55:7980
 #EXTINF:-1 ,迪士尼卡通 SD
 http://immortalwrt.lan:4022/udp/225.0.4.52:7980
 #EXTINF:-1 ,河北卫视
@@ -109,8 +111,10 @@ http://immortalwrt.lan:4022/udp/225.0.4.22:7980
 http://immortalwrt.lan:4022/udp/225.0.4.201:7980
 #EXTINF:-1 ,湖北金鹰卡通 SD
 http://immortalwrt.lan:4022/udp/225.0.4.46:7980
-#EXTINF:-1 ,湖北卫视 SD
-http://immortalwrt.lan:4022/udp/225.0.4.28:7980
+#EXTINF:-1 ,湖北卫视
+http://immortalwrt.lan:4022/udp/225.0.4.217:7980
+#EXTINF:-1 ,湖南快乐垂钓
+http://immortalwrt.lan:4022/udp/225.0.4.214:7980
 #EXTINF:-1 ,湖南卫视
 http://immortalwrt.lan:4022/udp/225.0.4.75:7980
 #EXTINF:-1 ,吉林家有购物 SD
@@ -121,8 +125,8 @@ http://immortalwrt.lan:4022/udp/225.0.4.225:7980
 http://immortalwrt.lan:4022/udp/225.0.4.79:7980
 #EXTINF:-1 ,江西卫视 SD
 http://immortalwrt.lan:4022/udp/225.0.4.25:7980
-#EXTINF:-1 ,辽宁卫视 SD
-http://immortalwrt.lan:4022/udp/225.0.4.19:7980
+#EXTINF:-1 ,辽宁卫视
+http://immortalwrt.lan:4022/udp/225.0.4.98:7980
 #EXTINF:-1 ,内蒙古卫视 SD
 http://immortalwrt.lan:4022/udp/225.0.4.38:7980
 #EXTINF:-1 ,宁夏卫视 SD
@@ -139,8 +143,8 @@ http://immortalwrt.lan:4022/udp/225.0.4.99:7980
 http://immortalwrt.lan:4022/udp/225.0.4.113:7980
 #EXTINF:-1 ,深圳财富天下 SD
 http://immortalwrt.lan:4022/udp/225.0.4.112:7980
-#EXTINF:-1 ,深圳卫视 SD
-http://immortalwrt.lan:4022/udp/225.0.4.27:7980
+#EXTINF:-1 ,深圳卫视
+http://immortalwrt.lan:4022/udp/225.0.4.202:7980
 #EXTINF:-1 ,四川卫视 SD
 http://immortalwrt.lan:4022/udp/225.0.4.24:7980
 #EXTINF:-1 ,天津卫视
@@ -159,6 +163,8 @@ http://immortalwrt.lan:4022/udp/225.0.4.164:7980
 http://immortalwrt.lan:4022/udp/225.0.4.145:7980
 #EXTINF:-1 ,地理 SD
 http://immortalwrt.lan:4022/udp/225.0.4.149:7980
+#EXTINF:-1 ,谍战剧场 SD
+http://immortalwrt.lan:4022/udp/225.0.4.55:7980
 #EXTINF:-1 ,动画 SD
 http://immortalwrt.lan:4022/udp/225.0.4.158:7980
 #EXTINF:-1 ,动作影院 SD
@@ -197,6 +203,8 @@ http://immortalwrt.lan:4022/udp/225.0.4.161:7980
 http://immortalwrt.lan:4022/udp/225.0.4.47:7980
 #EXTINF:-1 ,台球 SD
 http://immortalwrt.lan:4022/udp/225.0.4.163:7980
+#EXTINF:-1 ,未知动画
+http://immortalwrt.lan:4022/udp/225.0.4.197:7980
 #EXTINF:-1 ,未知新闻 SD
 http://immortalwrt.lan:4022/udp/225.0.4.58:7980
 #EXTINF:-1 ,武术 SD
