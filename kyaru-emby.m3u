@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV 4K HEVC HDR
-http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV 4K HEVC
+https://live.goodiptv.club/api/cqyx.php?id=CCTV4K
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CCTV8KW.png" group-title="未分类",CCTV 8K HEVC HDR
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1 综合
@@ -40,27 +40,29 @@ http://[2409:8087:2001:20:2800:0:df6e:eb18]/ott.mobaibox.com/PLTV/3/224/32212281
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17 农业农村
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000346?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" tvg-id="6563" tvg-name="兵器科技" group-title="数字付费",CCTV 兵器科技
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/bqkjHD/__op/default/__f/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" tvg-id="6558" tvg-name="第一剧场" group-title="数字付费",CCTV 第一剧场
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/diyijuchangHD/__op/default/__f/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV 电视指南
-http://111.20.40.163/PLTV/88888893/224/3221226987/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="数字付费",CCTV 风云剧场
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/fyjcHD/__op/default/__f/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="数字付费",CCTV 风云音乐
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/fyyyHD/__op/default/__f/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="数字付费",CCTV 风云足球
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/fyzqHD/__op/default/__f/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="数字付费",CCTV 高尔夫网球
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="数字付费",CCTV 怀旧剧场
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/hjjcHD/__op/default/__f/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/1.m3u8
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="数字付费",CCTV 女性时尚
-http://111.20.40.171/PLTV/88888893/224/3221226969/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="数字付费",CCTV 世界地理
-http://111.20.40.162/PLTV/88888893/224/3221226947/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
 #EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="数字付费",CCTV 央视精品
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/yswhHD/__op/default/__f/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="数字付费",CCTV 央视台球
+http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="卫视",CETV1
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000363?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",CETV2 SD
@@ -75,8 +77,6 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000392?AuthInfo=xxx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000394?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC 家庭影院
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000393?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E7%94%9F%E6%80%81%E7%8E%AF%E5%A2%83.png" group-title="未分类",EETV 生态环境 SD
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/shengtai/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="地方",IPTV5+ SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000149?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="95" tvg-name="IPTV6+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV6+.png" group-title="地方",IPTV6+ SD
@@ -149,10 +149,6 @@ https://movie.mcas.jp/mcas/mx2_2/master.m3u8
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000391?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000296?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/BAMC4.jpg" tvg-id="6606" tvg-name="四海钓鱼" group-title="数字付费",北广四海钓鱼
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/diaoyu/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/BESTV4K.png" group-title="未分类",北京百事TV 4K HEVC
-http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",北京卡酷少儿 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000159?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实科教
@@ -160,55 +156,35 @@ http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225729/index.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000229?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/4K%E8%B6%85%E9%AB%98%E6%B8%85%E7%94%B5%E5%BD%B1.png" group-title="未分类",超高清电影 4K
-http://159.75.85.63:5681/sxg.php
+http://r.jdshipin.com/5DWJk
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆北碚综合 SD
 http://222.178.181.121:12034/beibei01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆长寿综合 SD
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/changshou/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆涪陵综合
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/fulingzh/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆合川综合
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/hechuan/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆江津综合
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/jiangjinHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆开州综合
 rtmp://113.207.29.195:1935/applive/kzpd01
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E7%A7%91%E6%95%99.png" group-title="未分类",重庆科教
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%B1%BD%E6%91%A9.png" group-title="地方",重庆汽摩
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆黔江综合 SD
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/qianjiang/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆荣昌综合
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/rongchangHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF.png" group-title="未分类",重庆少儿
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000374?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95.png" group-title="未分类",重庆社会与法
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%97%B6%E5%B0%9A%E7%94%9F%E6%B4%BB.png" group-title="未分类",重庆时尚生活
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆铜梁综合
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/tongliangzongheHD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86%E9%AB%98%E6%B8%85.png" group-title="卫视",重庆卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000365?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%90.png" group-title="未分类",重庆文体娱乐
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆巫山综合
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/wushanzhSD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%96%B0%E5%86%9C%E6%9D%91.png" group-title="未分类",重庆新农村
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BB.png" group-title="未分类",重庆新闻
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆秀山综合
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/xiushan/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E7%A7%BB%E5%8A%A8.png" group-title="未分类",重庆移动
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000384?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E5%BD%B1%E8%A7%86.png" group-title="未分类",重庆影视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆永川综合
 rtmp://113.207.29.195/applive/yctv01
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆酉阳综合 SD
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/youyang/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
@@ -224,7 +200,7 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000386?AuthInfo=xxx
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000221?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangxi.png" group-title="卫视",广西卫视
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/guangxiHD/__op/default/__f/index.m3u8
+https://live.goodiptv.club/api/bestv.php?id=gxwshd8m/8000000
 #EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/gansu.png" group-title="卫视",甘肃卫视
 http://[2409:8087:2001:20:2800:0:df6e:eb1a]:80/wh7f454c46tw1400573680_-1979013462/ott.mobaibox.com/PLTV/3/224/3221227568/index.m3u8
 #EXTINF:-1 tvg-id="44" tvg-name="贵州卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png" group-title="卫视",贵州卫视
@@ -284,15 +260,15 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002108/index.m3
 #EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000275?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E4%B9%90%E6%B8%B8.png" group-title="未分类",上海乐游
-http://60.208.16.27:1505/gudou.php?id=364&id=quanjishiHD_7000
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="上海",上海欢笑剧场 4K HEVC
 http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226582/index.m3u8
 #EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="地方台",上海五星体育
-http://58.34.204.67:9901/tsfile/live/1014_1.m3u8
+http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001018/index.m3u8?
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000226?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000377?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
@@ -309,8 +285,6 @@ http://nas.jdshipin.com:8801/4kys.php
 http://[2409:8087:1e03:21::42]:6610/cms001/ch00000090990000001223/index.m3u8?
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000224?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%9B%BD%E6%B0%94%E8%B1%A1.png" group-title="未分类",中国气象
-http://hls.cq.live.cbnbn.cn/__cl/cg:live/__c/tianqiSD/__op/default/__f/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱生活 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000318?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下 SD
