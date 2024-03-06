@@ -33,10 +33,34 @@ http://immortalwrt.lan:4022/udp/225.0.4.128:7980
 http://immortalwrt.lan:4022/udp/225.0.4.220:7980
 #EXTINF:-1 ,CCTV17 农业农村
 http://immortalwrt.lan:4022/udp/225.0.4.179:7980
+#EXTINF:-1 ,CCTV 兵器科技
+http://immortalwrt.lan:4022/udp/225.0.4.223:7980
+#EXTINF:-1 ,CCTV 第一剧场
+http://immortalwrt.lan:4022/udp/225.0.4.206:7980
+#EXTINF:-1 ,CCTV 风云剧场
+http://immortalwrt.lan:4022/udp/225.0.4.209:7980
+#EXTINF:-1 ,CCTV 风云音乐
+http://immortalwrt.lan:4022/udp/225.0.4.205:7980
+#EXTINF:-1 ,CCTV 风云足球
+http://immortalwrt.lan:4022/udp/225.0.4.210:7980
+#EXTINF:-1 ,CCTV 高尔夫网球
+http://immortalwrt.lan:4022/udp/225.0.4.211:7980
+#EXTINF:-1 ,CCTV 怀旧剧场
+http://immortalwrt.lan:4022/udp/225.0.4.222:7980
+#EXTINF:-1 ,CCTV 女性时尚
+http://immortalwrt.lan:4022/udp/225.0.4.208:7980
+#EXTINF:-1 ,CCTV 世界地理
+http://immortalwrt.lan:4022/udp/225.0.4.207:7980
+#EXTINF:-1 ,CCTV 文化精品
+http://immortalwrt.lan:4022/udp/225.0.4.212:7980
+#EXTINF:-1 ,CCTV 央视台球
+http://immortalwrt.lan:4022/udp/225.0.4.224:7980
 #EXTINF:-1 ,CETV1
 http://immortalwrt.lan:4022/udp/225.0.4.186:7980
 #EXTINF:-1 ,CETV4 SD
 http://immortalwrt.lan:4022/udp/225.0.4.185:7980
+#EXTINF:-1 ,CETV 早期教育
+http://immortalwrt.lan:4022/udp/225.0.4.227:7980
 #EXTINF:-1 ,CGTN SD
 http://immortalwrt.lan:4022/udp/225.0.4.12:7980
 #EXTINF:-1 ,CHC 动作电影
