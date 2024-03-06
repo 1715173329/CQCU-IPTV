@@ -42,27 +42,27 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000346?AuthInfo=xxx
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" tvg-id="6563" tvg-name="兵器科技" group-title="数字付费",CCTV 兵器科技
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226975/1.m3u8
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" tvg-id="6558" tvg-name="第一剧场" group-title="数字付费",CCTV 第一剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226959/1.m3u8
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000410?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",CCTV 电视指南
 http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226987/1.m3u8
 #EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="数字付费",CCTV 风云剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226950/1.m3u8
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000409?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="数字付费",CCTV 风云音乐
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226953/1.m3u8
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000399?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="数字付费",CCTV 风云足球
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226984/1.m3u8
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000403?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="数字付费",CCTV 高尔夫网球
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226978/1.m3u8
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000402?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="数字付费",CCTV 怀旧剧场
-http://dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226972/1.m3u8
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000401?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="数字付费",CCTV 女性时尚
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226969/1.m3u8
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000408?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="数字付费",CCTV 世界地理
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226947/1.m3u8
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000407?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="数字付费",CCTV 央视精品
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226981/1.m3u8
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000406?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="数字付费",CCTV 央视台球
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226956/1.m3u8
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000404?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="卫视",CETV1
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000363?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="74" tvg-name="中国教育2台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育2台.png" group-title="地方",CETV2 SD
@@ -71,6 +71,8 @@ http://txycsbl.centv.cn/zb/0822cetv2.m3u8
 http://txycsbl.centv.cn/zb/0822cetv3.m3u8
 #EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV4 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000362?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/CETV%E6%97%A9%E6%9C%9F%E6%95%99%E8%82%B2.png" group-title="未分类",CETV 早期教育
+rtsp://123.147.113.180:554/04000001/01000000004000000000000000000400?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC 动作电影
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000392?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC 高清电影
@@ -185,6 +187,8 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000384?AuthInfo=xxx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆永川综合
 rtmp://113.207.29.195/applive/yctv01
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E7%BA%AF%E4%BA%AB4K.png" group-title="未分类",纯享4K HEVC HDR
+http://[2409:8087:2001:20:2800:0:df6e:eb11]/ott.mobaibox.com/PLTV/3/224/3221228242/index.m3u8
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000232?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
