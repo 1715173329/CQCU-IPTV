@@ -6,7 +6,7 @@
 
 ### 文件说明
 
-- cqcu-unicast.m3u
+- cqcu-unicast.m3u / cqcu-unicast-alternative.m3u
 
   重庆联通单播源，公网或 IPTV 专网均可播放。
 
