@@ -57,8 +57,8 @@ http://immortalwrt.lan:4022/udp/225.0.4.224:7980
 http://immortalwrt.lan:4022/udp/225.0.4.212:7980
 #EXTINF:-1 ,CETV1
 http://immortalwrt.lan:4022/udp/225.0.4.186:7980
-#EXTINF:-1 ,CETV4 SD
-http://immortalwrt.lan:4022/udp/225.0.4.185:7980
+#EXTINF:-1 ,CETV4
+http://immortalwrt.lan:4022/udp/225.0.4.182:7980
 #EXTINF:-1 ,CETV 早期教育
 http://immortalwrt.lan:4022/udp/225.0.4.227:7980
 #EXTINF:-1 ,CGTN SD
@@ -141,8 +141,8 @@ http://immortalwrt.lan:4022/udp/225.0.4.192:7980
 http://immortalwrt.lan:4022/udp/225.0.4.80:7980
 #EXTINF:-1 ,东南卫视
 http://immortalwrt.lan:4022/udp/225.0.4.200:7980
-#EXTINF:-1 ,甘肃卫视 SD
-http://immortalwrt.lan:4022/udp/225.0.4.44:7980
+#EXTINF:-1 ,甘肃卫视
+http://immortalwrt.lan:4022/udp/225.0.4.181:7980
 #EXTINF:-1 ,广东嘉佳卡通 SD
 http://immortalwrt.lan:4022/udp/225.0.4.221:7980
 #EXTINF:-1 ,广东卫视
@@ -193,8 +193,8 @@ http://immortalwrt.lan:4022/udp/225.0.4.38:7980
 http://immortalwrt.lan:4022/udp/225.0.4.41:7980
 #EXTINF:-1 ,青海卫视 SD
 http://immortalwrt.lan:4022/udp/225.0.4.39:7980
-#EXTINF:-1 ,山东教育卫视 SD
-http://immortalwrt.lan:4022/udp/225.0.4.177:7980
+#EXTINF:-1 ,山东教育卫视
+http://immortalwrt.lan:4022/udp/225.0.4.183:7980
 #EXTINF:-1 ,山东卫视
 http://immortalwrt.lan:4022/udp/225.0.4.199:7980
 #EXTINF:-1 ,陕西卫视 SD
