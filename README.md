@@ -28,4 +28,4 @@
 
 ### 配置说明
 
-参考 [重庆联通 IPTV 单线复用 + 内网融合教程](https://github.com/1715173329/blog/issues/5)。
+参考 [重庆联通 IPTV 单线复用 + 内网融合教程](https://blog.imouto.in/post/iptv/2022/cqcu-iptv-on-openwrt/)。
