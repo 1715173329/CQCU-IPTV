@@ -231,10 +231,12 @@ http://immortalwrt.lan:4022/udp/225.0.4.101:7980
 http://immortalwrt.lan:4022/udp/225.0.4.204:7980
 #EXTINF:-1 ,天津卫视
 http://immortalwrt.lan:4022/udp/225.0.4.82:7980
-#EXTINF:-1 ,新疆卫视 SD
-http://immortalwrt.lan:4022/udp/225.0.4.43:7980
-#EXTINF:-1 ,西藏卫视 SD
-http://immortalwrt.lan:4022/udp/225.0.4.42:7980
+#EXTINF:-1 ,新疆兵团卫视
+http://immortalwrt.lan:4022/udp/225.0.4.72:7980
+#EXTINF:-1 ,新疆卫视
+http://immortalwrt.lan:4022/udp/225.0.4.60:7980
+#EXTINF:-1 ,西藏卫视
+http://immortalwrt.lan:4022/udp/225.0.4.67:7980
 #EXTINF:-1 ,云南卫视 SD
 http://immortalwrt.lan:4022/udp/225.0.4.21:7980
 #EXTINF:-1 ,浙江卫视
