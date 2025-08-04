@@ -221,10 +221,12 @@ http://iptv.huuc.edu.cn/hls/schd.m3u8
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000223?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="828" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png" group-title="港澳及国外",天映经典
 http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
-#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视 SD
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000178?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视 SD
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000181?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000434?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",新疆兵团卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000435?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000433?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000208?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视
