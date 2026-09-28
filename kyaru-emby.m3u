@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="地方",CCTV 4K HEVC HDR
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000447?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png" group-title="央视",CCTV1 综合
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="央视",CCTV2 财经
@@ -31,51 +33,51 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000387?AuthInfo=xxx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000291?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央视",CCTV15 音乐
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000388?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="1864" tvg-name="CCTV16" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png" group-title="央视",CCTV16 奥林匹克 4K HEVC HDR
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000448?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="17" tvg-name="CCTV17" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png" group-title="央视",CCTV17 农业农村
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000346?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="数字付费",CCTV 兵器科技
+#EXTINF:-1 tvg-id="1652" tvg-name="兵器科技" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE8.jpg" group-title="数字付费",CCTV 兵器科技
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000405?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="数字付费",CCTV 第一剧场
+#EXTINF:-1 tvg-id="1647" tvg-name="第一剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVdiyijuchang.png" group-title="数字付费",CCTV 第一剧场
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000410?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="数字付费",CCTV 风云剧场
+#EXTINF:-1 tvg-id="1648" tvg-name="风云剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTBfengyun.png" group-title="数字付费",CCTV 风云剧场
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000409?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="数字付费",CCTV 风云音乐
+#EXTINF:-1 tvg-id="1646" tvg-name="风云音乐" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunyinyue.png" group-title="数字付费",CCTV 风云音乐
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000399?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="数字付费",CCTV 风云足球
+#EXTINF:-1 tvg-id="1424" tvg-name="风云足球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVfengyunzuqiu.png" group-title="数字付费",CCTV 风云足球
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000403?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="数字付费",CCTV 高尔夫网球
+#EXTINF:-1 tvg-id="1657" tvg-name="高尔夫网球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE13.jpg" group-title="数字付费",CCTV 高尔夫网球
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000402?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="数字付费",CCTV 怀旧剧场
+#EXTINF:-1 tvg-id="1651" tvg-name="怀旧剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE7.jpg" group-title="数字付费",CCTV 怀旧剧场
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000401?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="数字付费",CCTV 女性时尚
+#EXTINF:-1 tvg-id="1653" tvg-name="女性时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVnvxing.png" group-title="数字付费",CCTV 女性时尚
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000408?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="数字付费",CCTV 世界地理
+#EXTINF:-1 tvg-id="1649" tvg-name="世界地理" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVshijiedili.png" group-title="数字付费",CCTV 世界地理
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000407?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="数字付费",CCTV 央视文化精品
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000406?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="数字付费",CCTV 央视台球
+#EXTINF:-1 tvg-id="1673" tvg-name="央视台球" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVtaiqiu.png" group-title="数字付费",CCTV 央视台球
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000404?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="央视精品" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTVwenhuajingpin.png" group-title="数字付费",CCTV 央视文化精品
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000406?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="73" tvg-name="中国教育1台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png" group-title="卫视",CETV1
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000363?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="7245" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV4
+#EXTINF:-1 tvg-id="1860" tvg-name="中国教育4台" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育4台.png" group-title="地方",CETV4
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000427?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6581" tvg-name="早期教育" tvg-logo="https://epg.112114.xyz/logo/%E6%97%A9%E6%9C%9F%E6%95%99%E8%82%B2.png" group-title="未分类",CETV 早期教育
-rtsp://123.147.113.180:554/04000001/01000000004000000000000000000400?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC 动作电影
+#EXTINF:-1 tvg-id="1670" tvg-name="早期教育" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CCTVPAYFEE33.jpg" group-title="未分类",CETV 早期教育
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000400?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="20" tvg-name="CGTN" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/cgtn.png" group-title="地方",CGTN SD
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000344?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="1643" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="地方",CHC 动作电影
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000392?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC 高清电影
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000394?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC 家庭影院
+#EXTINF:-1 tvg-id="1644" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="地方",CHC 家庭影院
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000393?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="地方",IPTV5+ SD
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000149?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="95" tvg-name="IPTV6+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV6+.png" group-title="地方",IPTV6+ SD
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000148?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="1969" tvg-name="CHC影迷电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="地方",CHC 影迷电影
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000394?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/IPTV8+.png" group-title="未分类",IPTV8+ SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000147?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV 春晚频道 SD
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000150?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E8%B0%8D%E6%88%98%E5%89%A7%E5%9C%BA.png" group-title="未分类",IPTV 谍战剧场 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV 导视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000345?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E8%B0%8D%E6%88%98%E5%89%A7%E5%9C%BA.png" group-title="未分类",IPTV 谍战剧场
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000154?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E6%B3%95%E6%B2%BB.png" group-title="未分类",IPTV 法治 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000152?AuthInfo=xxx&userid=
@@ -83,61 +85,51 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000152?AuthInfo=xxx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000156?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="104" tvg-name="IPTV魅力时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV魅力时尚.png" group-title="地方",IPTV 魅力时尚 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000157?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="102" tvg-name="IPTV热播剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV热播剧场.png" group-title="地方",IPTV 热播剧场 SD
+#EXTINF:-1 tvg-id="102" tvg-name="IPTV热播剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV热播剧场.png" group-title="地方",IPTV 热播剧场
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000155?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="地方",IPTV 少儿动画 SD
+#EXTINF:-1 tvg-id="103" tvg-name="IPTV少儿动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV少儿动画.png" group-title="地方",IPTV 少儿动画
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000158?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81.png" group-title="未分类",IPTV 相声小品 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E7%9B%B8%E5%A3%B0%E5%B0%8F%E5%93%81.png" group-title="未分类",IPTV 相声小品
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000151?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8E%E5%A4%96.png" group-title="未分类",IPTV 野外 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8E%E5%A4%96.png" group-title="未分类",IPTV 野外
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000153?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://s1.ax1x.com/2022/04/14/L1JLlT.png" group-title="未分类",Loupe 4K HEVC
-http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E7%88%B1%E4%B8%8A4K.png" group-title="未分类",爱上4K HEVC
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000391?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png" group-title="卫视",安徽卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000296?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="67" tvg-name="卡酷动画" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/kaku.png" group-title="卫视",北京卡酷少儿 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000159?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijingjishi.png" group-title="北京",北京纪实科教
-http://iptv.huuc.edu.cn/hls/btv11hd.m3u8
 #EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png" group-title="卫视",北京卫视 4K HEVC HDR
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000426?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E4%BC%98%E4%BC%98%E5%AE%9D%E8%B4%9D.png" group-title="未分类",北京优优宝贝
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000424?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E5%8C%97%E7%A2%9A.png" group-title="未分类",重庆北碚综合 SD
-http://222.178.181.121:12034/beibei01.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆开州综合
-rtmp://113.207.29.195:1935/applive/kzpd01
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E7%94%9F%E6%B4%BB%E6%97%B6%E5%B0%9A%E9%A2%91%E9%81%93.png" group-title="未分类",重庆红岩文化
+#EXTINF:-1 tvg-id="1986" tvg-name="重庆红岩文化" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E7%BA%A2%E5%B2%A9%E6%96%87%E5%8C%961.png" group-title="未分类",重庆红岩文化
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000369?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E7%A7%91%E6%95%99%E9%A2%91%E9%81%93.png" group-title="未分类",重庆红叶
+#EXTINF:-1 tvg-id="1988" tvg-name="重庆红叶" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E7%BA%A2%E5%8F%B61.png" group-title="未分类",重庆红叶
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6573" tvg-name="汽摩" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%B1%BD%E6%91%A9%E9%A2%91%E9%81%93.png" group-title="地方",重庆汽摩
+#EXTINF:-1 tvg-id="1662" tvg-name="重庆汽摩" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%B1%BD%E6%91%A9%E9%A2%91%E9%81%931.png" group-title="地方",重庆汽摩
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000371?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%93.png" group-title="未分类",重庆少儿
+#EXTINF:-1 tvg-id="1146" tvg-name="重庆少儿" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E5%B0%91%E5%84%BF%E9%A2%91%E9%81%931.png" group-title="未分类",重庆少儿
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000374?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%95%E9%A2%91%E9%81%93.png" group-title="未分类",重庆社会与法
+#EXTINF:-1 tvg-id="1985" tvg-name="重庆社会与法" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E7%A4%BE%E4%BC%9A%E4%B8%8E%E6%B3%951.png" group-title="未分类",重庆社会与法
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000375?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86.png" group-title="卫视",重庆卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000365?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%96%B0%E5%86%9C%E6%9D%91%E9%A2%91%E9%81%93.png" group-title="未分类",重庆新农村
+#EXTINF:-1 tvg-id="1987" tvg-name="重庆新农村" tvg-logo="https://epg.112114.xyz/logo/%E6%96%B0%E5%86%9C%E6%9D%91%E9%A2%91%E9%81%931.png" group-title="未分类",重庆新农村
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000376?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%93.png" group-title="未分类",重庆新闻
+#EXTINF:-1 tvg-id="1139" tvg-name="重庆新闻" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%96%B0%E9%97%BB%E9%A2%91%E9%81%931.png" group-title="未分类",重庆新闻
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000367?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E7%A7%BB%E5%8A%A8%E9%A2%91%E9%81%93.png" group-title="未分类",重庆移动
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000384?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93.png" group-title="未分类",重庆影视剧
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E7%A7%BB%E5%8A%A8%E9%A2%91%E9%81%931.png" group-title="未分类",重庆移动
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000446?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="1138" tvg-name="重庆影视" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E5%BD%B1%E8%A7%86%E5%89%A7.png" group-title="未分类",重庆影视剧
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000372?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E5%A8%B1%E4%B9%90%E9%A2%91%E9%81%93.png" group-title="未分类",重庆娱乐
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%8D%E5%BA%86%E6%96%87%E4%BD%93%E5%A8%B1%E4%B9%901.png" group-title="未分类",重庆娱乐
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000370?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",重庆永川综合
-rtmp://113.207.29.195/applive/yctv01
 #EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png" group-title="卫视",东方卫视 4K HEVC HDR
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000436?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png" group-title="卫视",东南卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000379?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",广东嘉佳卡通 SD
+#EXTINF:-1 tvg-id="1434" tvg-name="嘉佳卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jiajiakt.png" group-title="地方",广东嘉佳卡通 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000386?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png" group-title="卫视",广东卫视 4K HEVC HDR
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000432?AuthInfo=xxx&userid=
@@ -149,7 +141,7 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000429?AuthInfo=xxx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000340?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/lvyou.png" group-title="卫视",海南卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000385?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方",杭州求索纪录
+#EXTINF:-1 tvg-id="1642" tvg-name="求索记录" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/QSJL.png" group-title="地方",杭州求索纪录
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000397?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png" group-title="卫视",河北卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000341?AuthInfo=xxx&userid=
@@ -161,11 +153,11 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000227?AuthInfo=xxx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000396?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png" group-title="卫视",湖北卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000222?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",湖南茶频道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/DOCUMENTARY-CHANNEL.jpg" group-title="地方",湖南茶频道
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000395?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinyingkatong.png" group-title="卫视",湖南金鹰卡通 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000162?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",湖南快乐垂钓
+#EXTINF:-1 tvg-id="1684" tvg-name="快乐垂钓" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/KUAILECHUIDIAO.jpg" group-title="地方",湖南快乐垂钓
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000382?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png" group-title="央视",湖南卫视 4K HEVC HDR
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000439?AuthInfo=xxx&userid=
@@ -179,10 +171,10 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000378?AuthInfo=xxx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000390?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png" group-title="卫视",辽宁卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000260?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视 SD
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000180?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视 SD
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000194?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/neimeng.png" group-title="卫视",内蒙古卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000444?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/ningxia.png" group-title="卫视",宁夏卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000442?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qinghai.png" group-title="卫视",青海卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000182?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E5%B1%B1%E4%B8%9C%E6%95%99%E8%82%B2%E5%8D%AB%E8%A7%86.png" group-title="未分类",山东教育卫视
@@ -191,103 +183,109 @@ rtsp://123.147.113.84:554/04000001/01000000004000000000000000000428?AuthInfo=xxx
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000440?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi_.png" group-title="卫视",山西卫视 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000179?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视 SD
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000189?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E5%8A%A8%E6%BC%AB%E7%A7%80%E5%9C%BA.png" group-title="未分类",上海动漫秀场
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png" group-title="卫视",陕西卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000445?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="1279" tvg-name="动漫秀场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/dongmanxiuchang.png" group-title="未分类",上海动漫秀场
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000413?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%83%BD%E5%B8%82%E5%89%A7%E5%9C%BA.png" group-title="未分类",上海都市剧场
+#EXTINF:-1 tvg-id="1282" tvg-name="都市剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/doushijuchang.png" group-title="未分类",上海都市剧场
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000412?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E6%B3%95%E5%88%B6%E5%A4%A9%E5%9C%B0.png" group-title="未分类",上海法制天地
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000417?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://epg.112114.xyz/logo/%E6%AC%A2%E7%AC%91%E5%89%A7%E5%9C%BA4K.png" group-title="上海",上海欢笑剧场 4K HEVC
+#EXTINF:-1 tvg-id="1277" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="上海",上海欢笑剧场 4K HEVC
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000411?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanghaijishi.png" group-title="上海",上海纪实人文
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000275?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%87%91%E8%89%B2%E5%AD%A6%E5%A0%82.png" group-title="未分类",上海金色学堂
+#EXTINF:-1 tvg-id="1274" tvg-name="金色" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/jinse.png" group-title="未分类",上海金色学堂
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000416?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E4%B9%90%E6%B8%B8.png" group-title="未分类",上海乐游
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000419?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E9%AD%85%E5%8A%9B%E8%B6%B3%E7%90%83.png" group-title="未分类",上海魅力足球
+#EXTINF:-1 tvg-id="1857" tvg-name="魅力足球" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/meilizuqiu.png" group-title="未分类",上海魅力足球
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000415?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="未分类",上海生活时尚
+#EXTINF:-1 tvg-id="1281" tvg-name="生活时尚" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/shenghuoshishang.png" group-title="未分类",上海生活时尚
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000418?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="1983" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="未分类",上海游戏风云
+#EXTINF:-1 tvg-id="1283" tvg-name="游戏风云" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/youxifengyun.png" group-title="未分类",上海游戏风云
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000414?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png" group-title="卫视",深圳卫视 4K HEVC HDR
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000431?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png" group-title="卫视",四川卫视 4K HEVC HDR
-rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000441?AuthInfo=xxx&userid=
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000441?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png" group-title="卫视",天津卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000223?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="828" tvg-name="天映经典" tvg-logo="https://epg.112114.xyz/logo/%E5%A4%A9%E6%98%A0%E7%BB%8F%E5%85%B8.png" group-title="港澳及国外",天映经典
-http://210.210.155.37/qwr9ew/s/s31/index2.m3u8
 #EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xizang.png" group-title="卫视",西藏卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000434?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="61" tvg-name="兵团卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/bingtuan.png" group-title="卫视",新疆兵团卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000435?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/xinjiang.png" group-title="卫视",新疆卫视
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000433?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视 SD
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000208?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png" group-title="卫视",云南卫视
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000443?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png" group-title="卫视",浙江卫视 4K HEVC HDR
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000437?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="1994" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="地方台",中国交通频道
+#EXTINF:-1 tvg-id="1293" tvg-name="中国交通频道" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/zgjt.png" group-title="地方台",中国交通频道
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000420?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E4%B8%AD%E5%A4%AE%E6%96%B0%E5%BD%B1%E4%B8%AD%E5%AD%A6%E7%94%9F.png" group-title="未分类",中央新影 中学生
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000430?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="95" tvg-name="IPTV6+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV6+.png" group-title="地方",爱电影
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000148?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",爱生活 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000318?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6623" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下 SD
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000276?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",地理 SD
+#EXTINF:-1 tvg-id="94" tvg-name="IPTV5+" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/IPTV5+.png" group-title="地方",爱体育
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000149?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",IPTV 爱综艺
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000150?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="1712" tvg-name="财富天下" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/财富天下.png" group-title="地方",财富天下 SD
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000263?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",地理
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000337?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",都市剧场
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000336?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动画 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动画
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000324?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动作影院 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",动作影院
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000312?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高网 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",高网
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000316?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",古装剧场 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",古装剧场
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000334?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="6590" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学 SD
+#EXTINF:-1 tvg-id="1679" tvg-name="国学" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/SHUOWENJIEZI.jpg" group-title="地方",国学 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000327?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",光影 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",光影
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000320?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",好学生 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",好学生
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000323?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家庭影院 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",家庭影院
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000311?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",解密 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",鉴赏 SD
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000322?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",解密
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000329?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",精选 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000330?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",军旅剧场 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",军旅剧场
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000335?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",军事 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",军事
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000328?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E7%BE%8E%E4%BA%BA.png" group-title="未分类",美人 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E7%BE%8E%E4%BA%BA.png" group-title="未分类",美人
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000331?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",美妆 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",美妆
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000332?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",墨宝 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000321?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E5%8F%B0%E7%90%83.png" group-title="未分类",台球 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E5%8F%B0%E7%90%83.png" group-title="未分类",台球
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000319?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E6%AD%A6%E6%9C%AF.png" group-title="未分类",武术 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E6%AD%A6%E6%9C%AF.png" group-title="未分类",武术
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000317?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",武侠剧 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",武侠剧
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000314?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",戏曲 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000326?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",喜剧影院 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",喜剧影院
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000313?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星影 SD
-rtsp://123.147.113.84:554/04000001/01000000004000000000000000000312?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",音乐剧场 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",星影
+rtsp://123.147.113.84:554/04000001/01000000004000000000000000000310?AuthInfo=xxx&userid=
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",音乐剧场
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000333?AuthInfo=xxx&userid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="未分类",早教 SD
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000325?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E8%B6%B3%E7%90%83.png" group-title="未分类",足球 SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://epg.112114.xyz/logo/%E8%B6%B3%E7%90%83.png" group-title="未分类",足球
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000315?AuthInfo=xxx&userid=
